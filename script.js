@@ -1,1 +1,1 @@
-console.log('Meal Planner App Loaded');
+console.log("Meal Planner App loaded.");
