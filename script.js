@@ -1,0 +1,1 @@
+console.log('Meal Planner App Loaded');
